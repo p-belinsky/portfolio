@@ -33,7 +33,7 @@ const Services = () => {
         transition={{ duration: 0.5, delay: 0.7 }}   
       
       className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">
-        I am a full stack developer from Pittsburgh, USA with 5 years of
+        I am a full stack developer from Pittsburgh, PA with 5 years of
         experience in multiple companies like Amazon, MSA, and Apple.
       </motion.p>
 
