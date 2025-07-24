@@ -98,10 +98,10 @@ export const workData = [
         link:'https://mern-netflix-clone-zexb.onrender.com'
     },
     {
-        title: 'E-Commerce Store',
-        description: 'MERN',
+        title: 'Calendra App',
+        description: 'NEXTJS 15',
         bgImage: '/work-3.png',
-        link:'https://mern-ecommerce-67eh.onrender.com/'
+        link:'https://calendra-pi.vercel.app/'
     },
     {
         title: 'Bitly Clone',
