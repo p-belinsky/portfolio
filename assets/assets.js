@@ -92,10 +92,10 @@ export const workData = [
         link:'https://mern-thinkboard-c6bd.onrender.com/'
     },
     {
-        title: 'Netflix Clone',
+        title: 'QuickShow App',
         description: 'MERN',
         bgImage: '/work-2.png',
-        link:'https://mern-netflix-clone-zexb.onrender.com'
+        link:'https://quickshow-jade.vercel.app/'
     },
     {
         title: 'Calendra App',
