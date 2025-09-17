@@ -104,10 +104,10 @@ export const workData = [
         link:'https://calendra-pi.vercel.app/'
     },
     {
-        title: 'Bitly Clone',
-        description: 'Spring Boot & React',
+        title: 'QuickAI App',
+        description: 'MERN',
         bgImage: '/work-4.png',
-        link:'https://velvety-puffpuff-4fd015.netlify.app'
+        link:'https://quick-ai-jade-nu.vercel.app/'
     },
 ]
 
