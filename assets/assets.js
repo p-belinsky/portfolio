@@ -98,10 +98,10 @@ export const workData = [
         link:'https://quickshow-jade.vercel.app/'
     },
     {
-        title: 'Calendra App',
-        description: 'NEXTJS 15',
+        title: 'QuickBlog App',
+        description: 'MERN',
         bgImage: '/work-3.png',
-        link:'https://calendra-pi.vercel.app/'
+        link:'https://quick-blog-six-omega.vercel.app/'
     },
     {
         title: 'QuickAI App',
