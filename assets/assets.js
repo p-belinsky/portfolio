@@ -98,10 +98,10 @@ export const workData = [
         link:'https://quickshow-jade.vercel.app/'
     },
     {
-        title: 'QuickBlog App',
-        description: 'MERN',
+        title: 'Store-It App',
+        description: 'NEXT JS',
         bgImage: '/work-3.png',
-        link:'https://quick-blog-six-omega.vercel.app/'
+        link:'https://storage-management-solution-chi.vercel.app/'
     },
     {
         title: 'QuickAI App',
