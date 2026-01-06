@@ -86,10 +86,10 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'QuickGPT App',
-        description: 'MERN',
+        title: 'Productify App',
+        description: 'PERN',
         bgImage: '/work-1.png',
-        link:'https://quick-gpt-one-tau.vercel.app/'
+        link:'https://productify-6diii.sevalla.app/'
     },
     {
         title: 'QuickShow App',
