@@ -92,10 +92,10 @@ export const workData = [
         link:'https://productify-6diii.sevalla.app/'
     },
     {
-        title: 'QuickShow App',
+        title: 'Thumblify App',
         description: 'MERN',
         bgImage: '/work-2.png',
-        link:'https://quickshow-jade.vercel.app/'
+        link:'https://thumblify-jet.vercel.app/'
     },
     {
         title: 'Store-It App',
