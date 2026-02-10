@@ -104,10 +104,10 @@ export const workData = [
         link:'https://storage-management-solution-chi.vercel.app/'
     },
     {
-        title: 'QuickAI App',
-        description: 'MERN',
+        title: 'UGC.AI App',
+        description: 'PERN',
         bgImage: '/work-4.png',
-        link:'https://quick-ai-jade-nu.vercel.app/'
+        link:'https://ugc-ai-nine.vercel.app/'
     },
 ]
 
