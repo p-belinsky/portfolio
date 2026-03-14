@@ -86,10 +86,10 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Productify App',
-        description: 'PERN',
+        title: 'Fitness Tracker App',
+        description: 'React JS & Strapi',
         bgImage: '/work-1.png',
-        link:'https://productify-6diii.sevalla.app/'
+        link:'https://fitness-tracker-phi-ten.vercel.app/'
     },
     {
         title: 'Thumblify App',
