@@ -109,6 +109,12 @@ export const workData = [
         bgImage: '/work-4.png',
         link:'https://ugc-ai-nine.vercel.app/'
     },
+    {
+        title: 'Employee Management App',
+        description: 'MERN',
+        bgImage: '/work-1.png',
+        link:'https://full-stack-ems-self.vercel.app/'
+    },
 ]
 
 export const serviceData = [
